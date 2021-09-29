@@ -1,4 +1,4 @@
-# [Vkontakte BOT (vk_api python) [2] | Клавиатура, кнопочки.](https://www.youtube.com/watch?v=pHESBypF9mo
+# [Vkontakte BOT (vk_api python) [2] | Клавиатура, кнопочки.](https://www.youtube.com/watch?v=pHESBypF9mo)
 __Здесь не будет описано все, предыдущее смотреть [здесь](https://github.com/Fsoky/VKAPI-Lessons/blob/main/tutorial/vk_bot_1.md)__
 
 Импортируем классы `VkKeyboard`, `VkKeyboardColor` из пакета `vk_api.keyboard`
