@@ -1,5 +1,6 @@
 import vk_api
 from vk_api.longpoll import VkLongPoll, VkEventType
+from vk_api.keyboard import VkKeyboard, VkKeyboardColor
 
 session = vk_api.VkApi(token="TOKEN")
 
